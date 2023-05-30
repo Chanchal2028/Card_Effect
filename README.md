@@ -1,3 +1,3 @@
 # Card_Effect
-# Card_Effect
-# Card_Effect
+
+Card effect using HTML & CSS
